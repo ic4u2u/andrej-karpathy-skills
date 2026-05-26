@@ -215,7 +215,7 @@ Then: suggest 3 variations I could test to find the best version.
 
 ## Workflow
 
-**属于工作流 C：反偏见决策（第3步/终点）**
+**属于工作流：反偏见决策（第3步/终点）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|

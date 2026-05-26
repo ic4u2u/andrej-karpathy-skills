@@ -183,7 +183,7 @@ pip-compile --generate-hashes requirements.in
 
 ## Workflow
 
-**属于工作流 A：从想法到上线（第4步）**
+**属于工作流：想法到上线（第4步）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|

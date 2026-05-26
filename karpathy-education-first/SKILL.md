@@ -165,15 +165,15 @@ If any box is unchecked: the code isn't done yet.
 
 ## Workflow
 
-**属于工作流 B：研究→发布（终点）+ 工作流 D：月度体检（终点）**
+**属于工作流：研究到发布（终点）+ 工作流：月度体检（终点）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|
 | B的第4步 | karpathy-output-evolution（包装完成后） | 发布/分享 |
 | D的第4步 | karpathy-practice-environments（练习后） | 教程输出 |
 
-完整链路B：autoresearch → llm-wiki → output-evolution → education-first
-完整链路D：meta-reflection → understanding-first → practice-environments → education-first
+研究到发布链路：autoresearch → llm-wiki → output-evolution → education-first
+月度体检链路：meta-reflection → understanding-first → practice-environments → education-first
 
 ## Prompt Contract
 

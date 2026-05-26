@@ -154,7 +154,7 @@ Friday:    Generate weekly_digest.md with LLM
 
 ## Workflow
 
-**属于工作流 B：研究沉淀发布（内容创作者/研究者）**
+**属于工作流：研究到发布（内容创作者/研究者）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|
@@ -162,7 +162,7 @@ Friday:    Generate weekly_digest.md with LLM
 
 完整链路：`autoresearch → llm-wiki → output-evolution → education-first`
 
-也在工作流 D（月度审查）中用于持久化反思结论。
+也在月度体检工作流中用于持久化反思结论。
 
 ## Prompt Contract
 

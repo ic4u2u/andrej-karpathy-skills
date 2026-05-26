@@ -141,15 +141,15 @@ I'm going to use this as a learning moment, not just copy-paste.
 
 ## Workflow
 
-**属于工作流 C：反偏见决策（第2步）+ 工作流 D：月度体检（第2步）**
+**属于工作流：反偏见决策（第2步）+ 工作流：月度体检（第2步）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|
 | C第2步 | karpathy-llm-simulator（辩论后） | karpathy-system-prompt-learning（沉淀规则） |
 | D第2步 | karpathy-meta-reflection（审计后） | karpathy-practice-environments（建练习环境） |
 
-完整链路C：llm-simulator → understanding-first → system-prompt-learning
-完整链路D：meta-reflection → understanding-first → practice-environments → education-first
+反偏见决策链路：llm-simulator → understanding-first → system-prompt-learning
+月度体检链路：meta-reflection → understanding-first → practice-environments → education-first
 
 ## Prompt Contract
 

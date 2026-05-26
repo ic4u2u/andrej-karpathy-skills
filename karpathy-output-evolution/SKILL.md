@@ -159,7 +159,7 @@ Clean design. Renders directly in a browser.
 
 ## Workflow
 
-**属于工作流 B：研究→发布（第3步）**
+**属于工作流：研究到发布（第3步）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|

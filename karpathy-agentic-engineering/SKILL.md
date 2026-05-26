@@ -96,7 +96,7 @@ Start by proposing a high-level plan with 2-3 options and trade-offs. Wait for a
 
 ## Workflow
 
-**属于工作流 A：从想法到上线（开发者）**
+**属于工作流：想法到上线（开发者）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|
@@ -104,7 +104,7 @@ Start by proposing a high-level plan with 2-3 options and trade-offs. Wait for a
 
 完整链路：`idea-files → agentic-engineering → minimalism → supply-chain-hygiene → vibe-to-agentic`
 
-也常在工作流 C（决策）中作为执行层出现——当决策完成后需要落地时，切换到本 Skill。
+也常在反偏见决策工作流中作为执行层出现——当决策完成后需要落地时，切换到本 Skill。
 
 ## Prompt Contract
 

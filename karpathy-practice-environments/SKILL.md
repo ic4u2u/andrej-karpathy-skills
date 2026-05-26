@@ -242,7 +242,7 @@ This is a spec, not code. Anyone with an LLM should be able to implement it.
 
 ## Workflow
 
-**属于工作流 D：月度体检（第3步）**
+**属于工作流：月度体检（第3步）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|

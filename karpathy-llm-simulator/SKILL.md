@@ -119,7 +119,7 @@ Total time: 15-20 minutes. Quality of decision: dramatically better.
 
 ## Workflow
 
-**属于工作流 C：反偏见决策（任何重要判断）**
+**属于工作流：反偏见决策（任何重要判断）**
 
 | 位置 | 上游 | 下游 |
 |------|------|------|
@@ -127,7 +127,7 @@ Total time: 15-20 minutes. Quality of decision: dramatically better.
 
 完整链路：`llm-simulator → understanding-first → system-prompt-learning`
 
-也在工作流 D（月度审查）中用于 stress-test 月度结论。
+也在月度体检工作流中用于 stress-test 月度结论。
 
 ## Prompt Contract
 
