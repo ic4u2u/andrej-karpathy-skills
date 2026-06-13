@@ -1,0 +1,33 @@
+{
+  "name": "andrej-karpathy-skills",
+  "owner": { "name": "LearnPrompt", "url": "https://github.com/LearnPrompt" },
+  "metadata": { "description": "Marketplace hosting the Karpathy-inspired skill pack: 14 working methods distilled from Andrej Karpathy's public posts, plus 1 methodology router. Unofficial curation, not endorsed by Andrej Karpathy." },
+  "plugins": [
+    {
+      "name": "karpathy-skills",
+      "description": "14 Karpathy-inspired working methods + 1 methodology router, distilled from his 2023-2026 public X posts and Gists into executable agent skills: agentic-engineering, vibe-to-agentic, autoresearch, llm-simulator, llm-wiki, minimalism, supply-chain-hygiene, understanding-first, idea-files, output-evolution, education-first, system-prompt-learning, practice-environments, meta-reflection. Every skill cites its original source. Unofficial, not endorsed by Andrej Karpathy.",
+      "version": "1.0.0",
+      "author": { "name": "LearnPrompt", "url": "https://github.com/LearnPrompt" },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/LearnPrompt/andrej-karpathy-skills",
+      "skills": [
+        "./karpathy-methodology",
+        "./karpathy-agentic-engineering",
+        "./karpathy-vibe-to-agentic",
+        "./karpathy-autoresearch",
+        "./karpathy-llm-simulator",
+        "./karpathy-llm-wiki",
+        "./karpathy-minimalism",
+        "./karpathy-supply-chain-hygiene",
+        "./karpathy-understanding-first",
+        "./karpathy-idea-files",
+        "./karpathy-output-evolution",
+        "./karpathy-education-first",
+        "./karpathy-system-prompt-learning",
+        "./karpathy-practice-environments",
+        "./karpathy-meta-reflection"
+      ]
+    }
+  ]
+}
